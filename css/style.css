@@ -1,0 +1,27 @@
+body {
+    background-color: #B3C7F7;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h3 {
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+
+p {
+    line-height: 1.6;
+}
+img {
+    border: 5px solid black; 
+    padding: 10px ;  
+    margin: 10px;
+}
+
