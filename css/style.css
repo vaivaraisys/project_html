@@ -49,3 +49,12 @@ nav a{
         padding: 10px;
         margin: auto;
         display: block;
+
+#skip{
+    position: absolute;
+    left: -500px;
+        }
+
+#skip:focus{
+    left: 200px;
+}
